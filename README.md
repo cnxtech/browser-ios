@@ -1,14 +1,14 @@
-# Brave iOS Browser 
+# We Moved!
 
-Download in the [App Store](https://itunes.apple.com/app/brave-web-browser/id1052879175?mt=8)
+**Please see the new home and codebase for Brave on iOS over at our new repo: [brave-ios](https://github.com/brave/brave-ios).**
+
+This codebase is now depreciated and all tickets for Brave iOS should be filed and fixed over there. 
+
+To download the latest version of Brave iOS please visit the [App Store](https://itunes.apple.com/app/brave-web-browser/id1052879175?mt=8).
+
+## Brave iOS Browser 
 
 Brave is based on Firefox iOS, most of the Brave-specific code is in the [brave dir](brave/)
-
-## Deprecation Notice
-
-This project is currently being deprecated and is being replaced by a new codebase. Please see [brave-ios](https://github.com/brave/brave-ios) for our continued development work.
-
-As of today, this is still the App Store version of Brave. High priority issues will continue to be fixed until Brave 2.0 replaces this repo on the App Store.
 
 #### Labels
 
